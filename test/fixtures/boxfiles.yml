@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  fileName: MyString
+  remotePath: MyString
+  userId: 1
+
+two:
+  fileName: MyString
+  remotePath: MyString
+  userId: 1
